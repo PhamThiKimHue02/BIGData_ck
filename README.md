@@ -18,6 +18,7 @@ cho bài toán phát hiện và phân đoạn bất thường trên ảnh công 
 
 ### Link dataset
 https://kaggle.com/datasets/efb8dbe389117c55cf07ede92268760eeaab6d16e23298ad8bb401b5f282d491
+https://kaggle.com/datasets/94d612bfe5d3449edfe85338da6df8fbb76c21355dda98af8e867c96709fb633
 
 ---
 
