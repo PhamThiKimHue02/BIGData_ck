@@ -1,14 +1,14 @@
 # BIGData_ck
 
-## Big Data Project – CLIP & MultiADS
+## Big Data Project – MultiADS
 
 Repository này phục vụ cho đồ án môn Big Data.
 Dự án tập trung vào việc sử dụng mô hình CLIP và framework MultiADS
 cho bài toán phát hiện và phân đoạn bất thường trên ảnh công nghiệp.
 
 ### Nội dung
-- `bd_clip_hue.ipynb`: Notebook chạy CLIP (trích xuất đặc trưng ảnh)
-- `bd-multiads.ipynb`: Notebook thử nghiệm MultiADS
+- `bd_clip_hue.ipynb`: Notebook chạy CLIP _ bạn Huệ chạy (trích xuất đặc trưng ảnh)
+- `bd-multiads.ipynb`: Notebook thử nghiệm MultiADS _ cả nhóm chạy
 - Các file `.py`: mã nguồn huấn luyện và đánh giá
 - `data/`: cấu trúc dữ liệu (không bao gồm dataset lớn)
 
