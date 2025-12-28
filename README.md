@@ -1,12 +1,23 @@
-# MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning
-## [Paper](https://arxiv.org/abs/2504.06740) 
+# BIGData_ck
 
-## Purpose of the project
-This software is a research prototype, solely developed for and published as part of the publication
-[MultiADS: Defect-aware Supervision for Multi-type Anomaly Detection and Segmentation in Zero-Shot Learning]
-(https://arxiv.org/abs/2504.06740) which has been accepted by **ICCV 2025**.
+## Big Data Project – CLIP & MultiADS
 
-## Introduction
-![alt text](images/architecture.png)
-We present MultiADS, the first framework that goes beyond binary “good/bad” inspection to detect,
-localize, and label multiple defect types simultaneously.
+Repository này phục vụ cho đồ án môn Big Data.
+Dự án tập trung vào việc sử dụng mô hình CLIP và framework MultiADS
+cho bài toán phát hiện và phân đoạn bất thường trên ảnh công nghiệp.
+
+### Nội dung
+- `bd_clip_hue.ipynb`: Notebook chạy CLIP (trích xuất đặc trưng ảnh)
+- `bd-multiads.ipynb`: Notebook thử nghiệm MultiADS
+- Các file `.py`: mã nguồn huấn luyện và đánh giá
+- `data/`: cấu trúc dữ liệu (không bao gồm dataset lớn)
+
+### Ghi chú
+- Dataset (VisA, MVTec, …) **không được đẩy lên GitHub**
+- Notebook đã được chạy đầy đủ cell trên Kaggle
+- Repo phục vụ mục đích học tập
+
+---
+
+📌 Sinh viên: Phạm Thị Kim Huệ  
+📌 Môn học: Big Data

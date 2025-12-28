@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.Python
 build/
 dist/
 .eggs/
@@ -18,12 +19,17 @@ dist/
 *.manifest
 *.spec
 
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
 # Unit test / coverage
 htmlcov/
 .tox/
 .coverage
 coverage.xml
 .pytest_cache/
+.cover/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -32,8 +38,11 @@ coverage.xml
 .env
 .envrc
 .venv
-venv/
 env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # IDE
 .idea/
@@ -44,12 +53,12 @@ env/
 # Logs
 *.log
 
-# Data / output
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / outputs (KHÔNG đẩy dataset lớn)
 data/*
 !data/**/*.json
 results/
 exps/
-
-# OS
-.DS_Store
-Thumbs.db
