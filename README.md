@@ -13,11 +13,10 @@ cho bài toán phát hiện và phân đoạn bất thường trên ảnh công 
 - `data/`: cấu trúc dữ liệu (không bao gồm dataset lớn)
 
 ### Ghi chú
-- Dataset (VisA, MVTec, …) **không được đẩy lên GitHub**
+- Dataset (VisA, MVTec, …) **không đẩy được lên GitHub**
 - Notebook đã được chạy đầy đủ cell trên Kaggle
-- Repo phục vụ mục đích học tập
 
 ---
 
-📌 Sinh viên: Phạm Thị Kim Huệ  
+📌 Sinh viên: Phạm Thị Kim Huệ _ Nguyễn Vũ Nguyên _ Hoàng Mạnh Thiệp
 📌 Môn học: Big Data
