@@ -16,6 +16,9 @@ cho bài toán phát hiện và phân đoạn bất thường trên ảnh công 
 - Dataset (VisA, MVTec, …) **không đẩy được lên GitHub**
 - Notebook đã được chạy đầy đủ cell trên Kaggle
 
+### Link dataset
+https://kaggle.com/datasets/efb8dbe389117c55cf07ede92268760eeaab6d16e23298ad8bb401b5f282d491
+
 ---
 
 📌 Sinh viên: Phạm Thị Kim Huệ _ Nguyễn Vũ Nguyên _ Hoàng Mạnh Thiệp
